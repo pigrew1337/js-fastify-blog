@@ -1,4 +1,3 @@
-# docker-compose.test.yml
 services:
   app_test:
     build: .
