@@ -1,4 +1,7 @@
-node_modules/
-dist/
+node_modules
+.git
 .env
-*.sqlite
+__tests__
+coverage
+database.sqlite
+database.test.sqlite
